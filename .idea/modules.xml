@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_DS.iml" filepath="$PROJECT_DIR$/.idea/Java_DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" filepath="$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_programming/knapsack/knapsack.iml" filepath="$PROJECT_DIR$/dynamic_programming/knapsack/knapsack.iml" />
     </modules>
   </component>
 </project>
